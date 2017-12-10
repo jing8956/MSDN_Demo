@@ -1,0 +1,15 @@
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\bin\Release\HelloWPFApp.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\bin\Release\HelloWPFApp.exe
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\bin\Release\HelloWPFApp.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.csprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\Greetings.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\App.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp_MarkupCompile.cache
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp_MarkupCompile.lref
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\Greetings.baml
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.g.resources
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.exe
+D:\Users\jing8956\Documents\MSDN_Demo\HelloWPFApp\obj\Release\HelloWPFApp.pdb

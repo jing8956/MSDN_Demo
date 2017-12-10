@@ -1,0 +1,14 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\bin\Release\WPF_CSharp_DisableStartButton.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\bin\Release\WPF_CSharp_DisableStartButton.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\bin\Release\WPF_CSharp_DisableStartButton.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\MainWindow.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\App.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton_MarkupCompile.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton_MarkupCompile.lref
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\MainWindow.baml
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton.g.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_DisableStartButton\obj\Release\WPF_CSharp_DisableStartButton.pdb

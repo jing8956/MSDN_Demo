@@ -1,0 +1,14 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\bin\Release\WPF_CSharp_ProcessTasksAsTheyFinish.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\bin\Release\WPF_CSharp_ProcessTasksAsTheyFinish.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\bin\Release\WPF_CSharp_ProcessTasksAsTheyFinish.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\MainWindow.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\App.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish_MarkupCompile.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish_MarkupCompile.lref
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\MainWindow.baml
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish.g.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_ProcessTasksAsTheyFinish\obj\Release\WPF_CSharp_ProcessTasksAsTheyFinish.pdb

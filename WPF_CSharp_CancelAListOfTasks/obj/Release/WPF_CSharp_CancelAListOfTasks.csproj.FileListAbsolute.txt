@@ -1,0 +1,15 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\bin\Release\WPF_CSharp_CancelAListOfTasks.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\bin\Release\WPF_CSharp_CancelAListOfTasks.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\bin\Release\WPF_CSharp_CancelAListOfTasks.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.csprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\MainWindow.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\App.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks_MarkupCompile.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks_MarkupCompile.lref
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\MainWindow.baml
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.g.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_CancelAListOfTasks\obj\Release\WPF_CSharp_CancelAListOfTasks.pdb

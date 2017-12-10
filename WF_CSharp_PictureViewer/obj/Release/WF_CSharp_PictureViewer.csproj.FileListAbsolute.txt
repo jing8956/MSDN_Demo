@@ -1,0 +1,10 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\bin\Release\WF_CSharp_PictureViewer.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\bin\Release\WF_CSharp_PictureViewer.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\bin\Release\WF_CSharp_PictureViewer.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.csprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.Form1.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_PictureViewer\obj\Release\WF_CSharp_PictureViewer.pdb

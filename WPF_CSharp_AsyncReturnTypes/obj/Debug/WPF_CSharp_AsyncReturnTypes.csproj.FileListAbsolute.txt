@@ -1,0 +1,15 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\bin\Debug\WPF_CSharp_AsyncReturnTypes.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\bin\Debug\WPF_CSharp_AsyncReturnTypes.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\bin\Debug\WPF_CSharp_AsyncReturnTypes.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.csprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\MainWindow.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\App.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes_MarkupCompile.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes_MarkupCompile.lref
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\MainWindow.baml
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.g.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncReturnTypes\obj\Debug\WPF_CSharp_AsyncReturnTypes.pdb

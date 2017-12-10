@@ -1,0 +1,10 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\bin\Release\WF_CSharp_MathQuiz.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\bin\Release\WF_CSharp_MathQuiz.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\bin\Release\WF_CSharp_MathQuiz.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.csprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.Form1.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WF_CSharp_MathQuiz\obj\Release\WF_CSharp_MathQuiz.pdb

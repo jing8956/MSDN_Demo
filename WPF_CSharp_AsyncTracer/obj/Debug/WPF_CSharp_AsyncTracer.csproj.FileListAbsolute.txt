@@ -1,0 +1,15 @@
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\bin\Debug\WPF_CSharp_AsyncTracer.exe.config
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\bin\Debug\WPF_CSharp_AsyncTracer.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\bin\Debug\WPF_CSharp_AsyncTracer.pdb
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.csprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\MainWindow.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\App.g.cs
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer_MarkupCompile.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer_MarkupCompile.lref
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\MainWindow.baml
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.g.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.Properties.Resources.resources
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.csproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.csproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.exe
+D:\Users\jing8956\Documents\MSDN_Demo\WPF_CSharp_AsyncTracer\obj\Debug\WPF_CSharp_AsyncTracer.pdb
