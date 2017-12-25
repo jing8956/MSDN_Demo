@@ -1,0 +1,17 @@
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\bin\Release\WPF_VB_QueueResults.exe.config
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\bin\Release\WPF_VB_QueueResults.exe
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\bin\Release\WPF_VB_QueueResults.pdb
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\bin\Release\WPF_VB_QueueResults.xml
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.vbprojResolveAssemblyReference.cache
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\MainWindow.g.vb
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\Application.g.vb
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults_MarkupCompile.cache
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults_MarkupCompile.lref
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\MainWindow.baml
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.g.resources
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.Resources.resources
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.vbproj.GenerateResource.Cache
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.vbproj.CoreCompileInputs.cache
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.exe
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.xml
+D:\Users\jing8956\Documents\GitHub\MSDN_Demo\WPF_VB_QueueResults\obj\Release\WPF_VB_QueueResults.pdb
